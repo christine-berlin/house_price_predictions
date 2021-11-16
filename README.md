@@ -6,7 +6,6 @@ as well as modeling data using linear regression.<br>
 This repository contains:
 - a documented Jupyter Notebook (see [here](notebooks/EDA.ipynb)) 
 - presentation slides as pdf (see [here](presentation.pdf)) 
-- Python scripts for training the model, printing out the model statistics and saving the model (see [here](scripts/)) 
 
 
 ## Stakeholder
@@ -29,6 +28,7 @@ The King County Housing Data: This dataset contains information about home sales
 For this purpose you use following commands:
 
 ```bash
+pyenv local 3.9.4
 python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
