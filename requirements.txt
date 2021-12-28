@@ -7,3 +7,4 @@ seaborn==0.11.2
 statsmodels==0.13.0
 scikit-learn==1.0
 scipy==1.7.1
+pyzipcode==3.0.1
