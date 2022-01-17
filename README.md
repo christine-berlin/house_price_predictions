@@ -7,7 +7,6 @@ The dataset used here is the file "King_County_House_prices_dataset.csv". it can
 
 This repository contains:
 - a documented Jupyter Notebook (see [here](notebooks/EDA.ipynb)) 
-- 
 - presentation slides as pdf (see [here](presentation.pdf)) 
 
 
