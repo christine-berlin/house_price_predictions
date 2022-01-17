@@ -3,8 +3,8 @@
 This project is centered around exploratory data
 analysis techniques and statistical analysis,
 as well as modeling data using linear regression.<br>
-The dataset used here is the file "King_County_House_prices_dataset.csv". it can be found on kaggle.<br>
-The Data analysis can be found in this notebook: (see [EDA.ipynb](notebooks/EDA.ipynb)) 
+The dataset used here is the file "King_County_House_prices_dataset.csv". it can be found on kaggle.<br><br>
+The Data analysis can be found in this notebook: [EDA.ipynb](notebooks/EDA.ipynb) 
 
 
 ## Stakeholder
