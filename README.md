@@ -20,6 +20,8 @@ In this project I made house price predictions for her to analyse when and where
 
 ## Data
 The King County Housing Data: This dataset contains information about home sales in King County (USA).
+The famous dataset can be found on kaggle. Hier is a file with the column names and theit descriptions:
+[columns](column_names.md)
 
 
 ## Requirements
