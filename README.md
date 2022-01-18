@@ -8,7 +8,8 @@ The Data analysis can be found in this notebook: [EDA.ipynb](notebooks/EDA.ipynb
 
 ## Stakeholder
 My Stakeholder Erin Robinson is looking for a house in poor neighbourhood. She is socially responsible. 
-In this project I made house price predictions for her to analyse when and where she can best buy a house.                           
+In this project I made house price predictions for her to analyse when and where she can best buy a house in poor neighborhood 
+and sell it with little profit.                           
 
 
 ## Data
