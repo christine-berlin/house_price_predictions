@@ -3,8 +3,8 @@
 This project is centered around exploratory data
 analysis techniques and statistical analysis,
 as well as modeling data using linear regression.<br><br>
-The Data analysis can be found in this notebook: [EDA.ipynb](notebooks/EDA.ipynb) 
-
+The Data analysis can be found in this notebook: [EDA.ipynb](notebooks/EDA.ipynb)<br> 
+The presentation is here: [presenttation](presentation.pdf) 
 
 ## Stakeholder
 My Stakeholder Erin Robinson is looking for a house in poor neighbourhood. She is socially responsible. 
